@@ -1,0 +1,13 @@
+# CareOS-Template
+
+A tool-agnostic, privacy-hardened environment template designed for caregivers managing high-vulnerability patient logistics. This layout is flat, human-readable, and fully compatible with markdown-based knowledge networks (like Obsidian) and autonomous development tools.
+
+## 📂 Layout Map
+- `/templates/` — Holds the structural frameworks for parsing telemetry metrics.
+- `/docs/` — Grounding baseline instructions and clinical disease protocols.
+- `/patient-records/` — Target directory for generating localized logs (Blocked via firewall).
+
+## 🚀 Deployment Instructions
+Open this directory workspace inside your preferred agent tool (Claude Code, Cursor, Windsurf, or Antigravity) and seed the setup prompt:
+
+> "Review `ai-instructions.md` to initialize the workspace context. Generate today's `templates/log-daily.md` file inside a new directory called `patient-records/`."
