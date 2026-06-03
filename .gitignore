@@ -1,0 +1,5 @@
+# Block patient-specific Protected Health Information (PHI)
+/patient-records/
+*completed-daily-log*.md
+_PHI_*.md
+.DS_Store
