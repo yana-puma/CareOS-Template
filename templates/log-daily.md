@@ -1,12 +1,14 @@
 # Daily Care Telemetry Log: [INSERT DATE]
 
 ## 💊 Medication Timeline & Compliance
+*Instruction: Customize this table with your specific medication names, dosages, and targeted schedule. Remove this line once customized.*
+
 | Scheduled Time | Medication Name | Dosage | Actual Time Taken | Notes / State (ON / OFF) |
 | --- | --- | --- | --- | --- |
-| 07:00 AM | Levodopa / Carbidopa | 100mg | | |
-| 11:00 AM | Levodopa / Carbidopa | 100mg | | |
-| 03:00 PM | Levodopa / Carbidopa | 100mg | | |
-| 07:00 PM | Levodopa / Carbidopa | 100mg | | |
+| [e.g., 07:00 AM] | [Medication 1] | [Dosage] | | |
+| [e.g., 11:00 AM] | [Medication 2] | [Dosage] | | |
+| [e.g., 03:00 PM] | [Medication 3] | [Dosage] | | |
+| [e.g., 07:00 PM] | [Medication 4] | [Dosage] | | |
 
 ## 🧠 Symptom Tracking Matrix
 - **Mobility Baseline:** [Rate 1-5 or describe stiffness / freezing episodes]
